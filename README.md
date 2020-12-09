@@ -1,9 +1,5 @@
 # Analysis of International Football Matches Between 1872 and 2019 :
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#content)
-
-## Presentation
-gi
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#content)
 
